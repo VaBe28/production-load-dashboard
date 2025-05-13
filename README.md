@@ -1,7 +1,7 @@
 ### Production Load Analysis Dashboard
 
 📷 **Screenshot**  
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](production-load-analysis.png)
 
 ---
 
